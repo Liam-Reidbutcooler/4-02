@@ -1,0 +1,9 @@
+.text {
+color:blue;
+}
+div {
+background-color:rgba(9, 9, 31, 0.568);
+}
+table, th, td {
+  border:1px solid black;
+}
